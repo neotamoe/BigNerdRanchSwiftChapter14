@@ -8,6 +8,9 @@
 * you can specify raw values for String type, but don't have to...if you don't specify a raw value, swift will use the name of the case itself.
 * associated values allows you to attach data to instances of an enumeration and different cases can have different types of associated values
 
+#### Challenges
+Bronze and Silver: both completed
+
 #### Tech Used
 * Swift 3
 * Xcode 8
